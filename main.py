@@ -1,11 +1,13 @@
 import os,sys,time
 
-os.system('clear')
 time.sleep(2)
+os.system('clear')
 print("""
-TOOLS LOADING
-INI HANYA CONTOH NGAB
-MAKASIH DAH NONTON
+          =========================
+          #      TOOLS LOADING    #
+          # INI HANYA CONTOH NGAB #
+          # MAKASIH DAH NONTON    #
+          =========================
 """)
 load = '~'
 count = 0
@@ -19,4 +21,4 @@ for x in range(101):
     count = 0
     load += '~'
 time.sleep(2)
-print("\nLoading selesai")
+print("\nLoading selesai\nSubrek chanel FireMe")
