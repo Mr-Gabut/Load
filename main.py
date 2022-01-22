@@ -6,7 +6,7 @@ print("""
           =========================
           #      TOOLS LOADING    #
           # INI HANYA CONTOH NGAB #
-          # MAKASIH DAH NONTON    #
+          #   MAKASIH DAH NONTON  #
           =========================
 """)
 load = '~'
