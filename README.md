@@ -7,7 +7,7 @@ Loading bahasa python
 ```
 $ cd Load
 $ python main.py
-Atau
+Atau ===========
 $ bash install.sh
 ```
 
