@@ -1,0 +1,2 @@
+# Load
+Loading bahasa python
